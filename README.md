@@ -1,7 +1,7 @@
 # WebProjects
 web projects
 
-## -HTML & CSS
+## - HTML & CSS
 
 ### project1:
 repo:https://github.com/SaadMu7ammad/template1_ElzeroWebSchool<br>
@@ -18,5 +18,5 @@ repo:https://github.com/SaadMu7ammad/project3-appie<br>
 website:https://saadmu7ammad.github.io/project3-appie/
 
 
-## -Javascript
+## - Javascript
 soon...
