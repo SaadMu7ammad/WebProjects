@@ -19,4 +19,4 @@ website:https://saadmu7ammad.github.io/project3-appie/
 
 
 ## - Javascript
-soon...
+- ### 20 Web Projects With Vanilla JS https://github.com/SaadMu7ammad/20Projects_js
