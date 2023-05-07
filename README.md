@@ -3,17 +3,17 @@
 
 ## - HTML & CSS
 
-### [project1](https://saadmu7ammad.github.io/template1_ElzeroWebSchool/#portfolio)
+### [portfolio](https://saadmu7ammad.github.io/template1_ElzeroWebSchool/#portfolio)
 <!-- [Repo](https://github.com/SaadMu7ammad/template1_ElzeroWebSchool)<br> -->
 <!-- [website] -->
 
 
-### [project2](https://saadmu7ammad.github.io/template2_ElzeroWebSchool/)
+### [Kasper-template](https://saadmu7ammad.github.io/template2_ElzeroWebSchool/)
 <!-- [Repo](https://github.com/SaadMu7ammad/template2_ElzeroWebSchool)<br> -->
 <!-- ###[website] -->
 
 
-### [project3](https://saadmu7ammad.github.io/project3-appie/)
+### [Appie-template](https://saadmu7ammad.github.io/project3-appie/)
 <!-- [repo](https://github.com/SaadMu7ammad/project3-appie)<br> -->
 <!-- ###[website] -->
 
