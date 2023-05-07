@@ -21,15 +21,15 @@
 ## - Javascript
 -[20 Web Projects With Vanilla JS](https://github.com/SaadMu7ammad/20Projects_js)
 
-### [project1](https://saadmu7ammad.github.io/exchange_rate/)
+### [exchang-rate](https://saadmu7ammad.github.io/exchange_rate/)
 
 
-### [project2](https://saadmu7ammad.github.io/memory_cards_game/)
+### [memory-card-games](https://saadmu7ammad.github.io/memory_cards_game/)
 
-### [project3](https://saadmu7ammad.github.io/quran_player/)
+### [Quran-player](https://saadmu7ammad.github.io/quran_player/)
 
 <!--### [project5](https://saadmu7ammad.github.io/hangman_game/) -->
 
-### [project4](https://saadmu7ammad.github.io/sortableList/)
+### [Sortable-list](https://saadmu7ammad.github.io/sortableList/)
 
-### [project5](https://saadmu7ammad.github.io/quran-search/)
+### [Quran-search](https://saadmu7ammad.github.io/quran-search/)
