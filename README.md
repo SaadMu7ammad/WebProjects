@@ -23,7 +23,6 @@
 
 ### [project1](https://saadmu7ammad.github.io/exchange_rate/)
 
-<!-- ### [project2](https://saadmu7ammad.github.io/quran_search/) -->
 
 ### [project2](https://saadmu7ammad.github.io/memory_cards_game/)
 
@@ -33,3 +32,4 @@
 
 ### [project4](https://saadmu7ammad.github.io/sortableList/)
 
+### [project5](https://saadmu7ammad.github.io/quran-search/)
